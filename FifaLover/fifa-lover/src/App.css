@@ -1,0 +1,12 @@
+.App {
+  max-width: 100%; /* or a specific value like 1200px */
+  margin: 0 auto; /* Centers the container horizontally */
+}
+
+@media screen and (max-width: 768px) {
+  /* Styles for smaller screens */
+  .App {
+      /* Adjust styles for smaller screens */
+  }
+}
+
